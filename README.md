@@ -5,7 +5,7 @@ This is Course 1 of 3 in the Machine Learning Specialization
 ALL FILES BELONG TO THE COURSE (by DeepLearning.AI & Stanford University)
 
 ## File Descriptions:
-All these files are Labs and are examples of the techincal approaches to the concepts taught in the course
+All these files are Labs and are examples of the techincal approaches that can be taken regarding the concepts taught
 - C1_W1_Lab01_Python_Jupyter_Soln.ipynb
 - C1_W1_Lab02_Model_Representation_Soln.ipynb
 - C1_W1_Lab03_Cost_function_Soln.ipynb
