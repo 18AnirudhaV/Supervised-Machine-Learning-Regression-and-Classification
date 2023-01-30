@@ -15,7 +15,18 @@ All these files are Labs and are examples of the techincal approaches that can b
 - C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb
 - C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb
 - C1_W2_Lab05_Sklearn_GD_Soln.ipynb
+- C1_W3_Lab01_Classification_Soln.ipynb
+- C1_W3_Lab02_Sigmoid_function_Soln.ipynb
+- C1_W3_Lab03_Decision_Boundary_Soln.ipynb
+- C1_W3_Lab04_LogisticLoss_Soln.ipynb
+- C1_W3_Lab05_Cost_Function_Soln.ipynb
+- C1_W3_Lab06_Gradient_Descent_Soln.ipynb
+- C1_W3_Lab07_Scikit_Learn_Soln.ipynb
+- C1_W3_Lab08_Overfitting_Soln.ipynb
+- C1_W3_Lab09_Regularization_Soln.ipyn
 
 All these files are Assignments and are graded:
 - C1_W2_Linear_Regression.ipynb
+  - Assignment Grade = 100/100
+- C1_W3_Logistic_Regression.ipynb
   - Assignment Grade = 100/100
