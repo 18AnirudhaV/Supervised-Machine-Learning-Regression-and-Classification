@@ -4,7 +4,15 @@ This is Course 1 of 3 in the Machine Learning Specialization
 
 ALL FILES BELONG TO THE COURSE (by DeepLearning.AI & Stanford University)
 
+<object data="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf">
+        <p>Please download the Coursera Certificate PDF to view it: <a href="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf">Download PDF</a> (This browser does not support PDFs.).</p>
+    </embed>
+</object>
+
 ## File Descriptions:
+Certificate: _Coursera_Certificate.pdf
+
 All these files are Labs and are examples of the techincal approaches that can be taken regarding the concepts taught
 - C1_W1_Lab01_Python_Jupyter_Soln.ipynb
 - C1_W1_Lab02_Model_Representation_Soln.ipynb
