@@ -11,9 +11,10 @@ ALL FILES BELONG TO THE COURSE (by DeepLearning.AI & Stanford University)
 </object>
 
 ## File Descriptions:
-Certificate: _Coursera_Certificate.pdf
+### Certificate: 
+- _Coursera_Certificate.pdf
 
-All these files are Labs and are examples of the techincal approaches that can be taken regarding the concepts taught
+### All these files are Labs and are examples of the techincal approaches that can be taken regarding the concepts taught
 - C1_W1_Lab01_Python_Jupyter_Soln.ipynb
 - C1_W1_Lab02_Model_Representation_Soln.ipynb
 - C1_W1_Lab03_Cost_function_Soln.ipynb
@@ -33,7 +34,7 @@ All these files are Labs and are examples of the techincal approaches that can b
 - C1_W3_Lab08_Overfitting_Soln.ipynb
 - C1_W3_Lab09_Regularization_Soln.ipyn
 
-All these files are Assignments and are graded:
+### All these files are Assignments and are graded:
 - C1_W2_Linear_Regression.ipynb
   - Assignment Grade = 100/100
 - C1_W3_Logistic_Regression.ipynb
