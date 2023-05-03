@@ -1,14 +1,19 @@
 # Supervised-Machine-Learning-Regression-and-Classification
+This is Course 1 of 3 in the Machine Learning Specialization:
+
 https://www.coursera.org/learn/machine-learning?skipBrowseRedirect=true
-This is Course 1 of 3 in the Machine Learning Specialization
 
 ALL FILES BELONG TO THE COURSE (by DeepLearning.AI & Stanford University)
 
 <object data="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf">
-        <p>Please download the Coursera Certificate PDF to view it: <a href="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf">Download PDF</a> (This browser does not support PDFs.).</p>
+        <p>Please click the Coursera Certificate PDF link to view it: <a href="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf">Download PDF</a> ~ Also availableon my LinkedIn: https://www.linkedin.com/in/vermaa/.</p>
     </embed>
 </object>
+
+Course 2 of 3 in the Machine Learning Specialization: https://github.com/18AnirudhaV/Advanced-Learning-Algorithms
+
+Course 3 of 3 in the Machine Learning Specialization: https://github.com/18AnirudhaV/Unsupervised_Learning_Recommenders_Reinforcement_Learning
 
 ## File Descriptions:
 ### Certificate: 
