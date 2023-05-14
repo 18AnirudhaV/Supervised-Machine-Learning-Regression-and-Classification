@@ -13,7 +13,7 @@ Summary: Supervised Machine Learning: Regression and Classification
 
 <object data="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf">
-        <p>Please click the Coursera Certificate PDF link to view it: <a href="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf">View PDF</a> ~ Also availableon my LinkedIn: https://www.linkedin.com/in/vermaa/.</p>
+        <p>Please click the Coursera Certificate PDF link to view it: <a href="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf">View PDF</a> ~ Also available on my LinkedIn: https://www.linkedin.com/in/vermaa/.</p>
     </embed>
 </object>
 
